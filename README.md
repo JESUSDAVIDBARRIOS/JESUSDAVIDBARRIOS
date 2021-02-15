@@ -8,8 +8,8 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:j.barrios@uniandes.edu.co)
 
 <p>
-   <img width="100%" align="center" alt="Jesús's github stats" src="https://github-readme-stats.vercel.app/api?username=JESUSDAVIDBARRIOS&count_private=true&show_icons=true&hide_border=true&show_icons=true&text_color=D6D6D6&title_color=808080&bg_color=1C1C1C&icon_color=3572A5" />
-  <img width="100%" align="center" alt="Jesús's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESUSDAVIDBARRIOS&layout=compact&hide=batchfile,html,css&hide_border=true&text_color=D6D6D6&title_color=808080&bg_color=1C1C1C&icon_color=3572A5" />
+   <img width="100%" align="center" alt="Jesús's github stats" src="https://github-readme-stats.vercel.app/api?username=JESUSDAVIDBARRIOS&count_private=true&show_icons=true&hide_border=true&show_icons=true&hide=stars&text_color=D6D6D6&title_color=919191&bg_color=1C1C1C&icon_color=3572A5" />
+  <img width="100%" align="center" alt="Jesús's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESUSDAVIDBARRIOS&layout=compact&hide=batchfile,html,css&hide_border=true&hide=stars,issues&text_color=D6D6D6&title_color=919191&bg_color=1C1C1C&icon_color=3572A5" />
 </p>
 
 <!--
