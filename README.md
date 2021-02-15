@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I am Jesús David.
+
+<p>
+   <img width="80%" align="center" alt="Jesús's github stats" src="https://github-readme-stats.vercel.app/api?username=JESUSDAVIDBARRIOS&count_private=true&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=radical" />
+  <img width="80%" align="center" alt="Jesús's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESUSDAVIDBARRIOS&layout=compact&theme=radical&hide=batchfile,html,css&hide_border=true" />
+</p>
 
 <!--
 **JESUSDAVIDBARRIOS/JESUSDAVIDBARRIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
