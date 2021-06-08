@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesusdavid444@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:j.barrios@uniandes.edu.co)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jesus-david-barrios-melo-723852210)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jesus-david-barrios-melo-723852210/)
 
 <p>
    <img width="100%" align="center" alt="Jesús's github stats" src="https://github-readme-stats.vercel.app/api?username=JESUSDAVIDBARRIOS&count_private=true&show_icons=true&hide_border=true&show_icons=true&hide=stars,issues&text_color=D6D6D6&title_color=a6a6a6&bg_color=1C1C1C&icon_color=3572A5" />
