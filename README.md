@@ -11,9 +11,9 @@
 <p>
    <img width="100%" align="center" alt="Jesús's github stats" src="https://github-readme-stats.vercel.app/api?username=JESUSDAVIDBARRIOS&count_private=true&show_icons=true&hide_border=true&show_icons=true&hide=stars,issues&text_color=D6D6D6&title_color=a6a6a6&bg_color=1C1C1C&icon_color=3572A5" />
 </p>
- <!--
+ 
  <img width="100%" align="center" alt="Jesús's code stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESUSDAVIDBARRIOS&layout=compact&hide=batchfile,html,css&hide_border=true&text_color=D6D6D6&title_color=a6a6a6&bg_color=1C1C1C&icon_color=3572A5" />
-
+<!--
 **JESUSDAVIDBARRIOS/JESUSDAVIDBARRIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
